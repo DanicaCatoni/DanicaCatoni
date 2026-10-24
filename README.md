@@ -2,7 +2,7 @@
 
 Computer engineering student at **Boston University** (concentration in nanotechnology, class of 2029). I build rocket avionics, embedded firmware and tools for finding security flaws.
 
-🌐 **Portfolio:** [danicacatoni.github.io](https://danicacatoni.github.io) · 📫 **danica.catoni@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+🌐 **Portfolio:** [danicacatoni.github.io](https://danicacatoni.github.io) · 📫 **danica.catoni@gmail.com**
 
 ---
 
@@ -23,8 +23,6 @@ Computer engineering student at **Boston University** (concentration in nanotech
 |---|---|---|
 | [smart-tv-acr-analysis](https://github.com/DanicaCatoni/smart-tv-acr-analysis) | Measures what a Sony smart TV's automatic content recognition sends home, using the NSF SPHERE IoT testbed | Python, Wireshark, PCAP |
 | [ma-electricity-supplier-dashboard](https://github.com/DanicaCatoni/ma-electricity-supplier-dashboard) | 🏆 H4I Build-a-thon winner. Visualises $738M+ in MA household losses to third-party electricity suppliers | JavaScript, Chart.js |
-| [netrecon-cve](https://github.com/DanicaCatoni/netrecon-cve) | Nmap service discovery + NVD API lookups, ranked by CVE severity | Python, Nmap, NVD API |
-| [stm32h7-uart-control](https://github.com/DanicaCatoni/stm32h7-uart-control) | Interrupt-driven UART control with a GPIO / serial-command manual override | C, STM32 HAL |
 | [room-temp-monitor](https://github.com/DanicaCatoni/room-temp-monitor) | Arduino temperature monitor with I2C LCD, alarms and a 3D-printed enclosure | C++, Arduino, OnShape |
 
 ### ⚙️ Toolbox
